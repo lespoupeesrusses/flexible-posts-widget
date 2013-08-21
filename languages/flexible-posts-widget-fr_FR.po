@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flexible Posts Widget en español\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/flexible-posts-widget\n"
+"POT-Creation-Date: 2013-03-10 04:29:57+00:00\n"
+"PO-Revision-Date: 2013-08-21 17:53+0100\n"
+"Last-Translator: Kora Saccharin <kora@semiodesign.com>\n"
+"Language-Team: PNTE <blogs@educacion.navarra.es>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_n:1,2;_c;esc_html__;esc_html_e;"
+"esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: es_ES\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: flexible-posts-widget.php:71
+msgid "Display posts as widget items"
+msgstr "Afficher les articles comme des éléments du widget"
+
+#: flexible-posts-widget.php:85
+msgid "Getting terms..."
+msgstr "Cherche des termes..."
+
+#: flexible-posts-widget.php:86 views/admin.php:49
+msgid "Select terms:"
+msgstr "Sélectionnez les termes :"
+
+#: flexible-posts-widget.php:87 flexible-posts-widget.php:341
+#: views/admin.php:67
+msgid "No terms found."
+msgstr "Aucun terme trouvé"
+
+#: flexible-posts-widget.php:161 flexible-posts-widget.php:239
+msgid "Publish Date"
+msgstr "Date de publication"
+
+#: flexible-posts-widget.php:162 flexible-posts-widget.php:240
+msgid "Title"
+msgstr "Titre"
+
+#: flexible-posts-widget.php:163 flexible-posts-widget.php:241
+msgid "Menu Order"
+msgstr "Ordre du menu"
+
+#: flexible-posts-widget.php:164 flexible-posts-widget.php:242
+msgid "Post ID"
+msgstr "ID de l'article"
+
+#: flexible-posts-widget.php:165 flexible-posts-widget.php:243
+msgid "Author"
+msgstr "Auteur"
+
+#: flexible-posts-widget.php:166 flexible-posts-widget.php:244
+msgid "Post Slug"
+msgstr "Slug de l'article"
+
+#: flexible-posts-widget.php:167 flexible-posts-widget.php:245
+msgid "Comment Count"
+msgstr "Nombre de commentaires"
+
+#: flexible-posts-widget.php:168 flexible-posts-widget.php:246
+msgid "Random"
+msgstr "Au hasard"
+
+#: flexible-posts-widget.php:171 flexible-posts-widget.php:249
+msgid "Ascending"
+msgstr "Ascendant"
+
+#: flexible-posts-widget.php:172 flexible-posts-widget.php:250
+msgid "Descending"
+msgstr "Descendant"
+
+#: views/admin.php:15
+msgid "Widget title:"
+msgstr "Titre du widget :"
+
+#: views/admin.php:21
+msgid "Get posts by"
+msgstr "Obtenir les articles par"
+
+#: views/admin.php:29
+msgid "Post Type"
+msgstr "Type de post"
+
+#: views/admin.php:30
+msgid "Taxonomy &amp; Term"
+msgstr "Termes et taxonomies"
+
+#: views/admin.php:39
+msgid "Select a taxonomy:"
+msgstr "Sélectionnez une taxonomie :"
+
+#: views/admin.php:41
+msgid "Ignore Taxonomy &amp; Term"
+msgstr "Ignorer les taxonomies et les termes"
+
+#: views/admin.php:83
+msgid "Display options"
+msgstr "Options d'affichage"
+
+#: views/admin.php:85
+msgid "Number of posts to show:"
+msgstr "Nombre d'articles à afficher"
+
+#: views/admin.php:89
+msgid "Number of posts to skip:"
+msgstr "Nombre d'articles à sauter"
+
+#: views/admin.php:93
+msgid "Order posts by:"
+msgstr "Tri des articles par"
+
+#: views/admin.php:103
+msgid "Order:"
+msgstr "Ordre"
+
+#: views/admin.php:117
+msgid "Display thumbnails?"
+msgstr "Afficher les images à la une ?"
+
+#: views/admin.php:120
+msgid "Select a thumbnail size to show:"
+msgstr "Sélectionnez la taille de l'image à afficher"
+
+#: views/admin.php:133
+msgid "Template filename:"
+msgstr "Nom du fichier de template"
+
+#: views/admin.php:136
+msgid "See documentation"
+msgstr "Voir la documentation"
+
+#: views/admin.php:136
+msgid "for details."
+msgstr "pour en savoir plus sur les options de personnalisation"
+
+#: views/widget.php:39
+msgid "No post found"
+msgstr "Aucun article trouvé"
+
+#. Plugin Name of the plugin/theme
+msgid "Flexible Posts Widget"
+msgstr "Flexible Posts Widget"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/flexible-posts-widget/"
+msgstr "http://wordpress.org/extend/plugins/flexible-posts-widget/"
+
+#. Description of the plugin/theme
+msgid ""
+"An advanced posts display widget with many options: get posts by post type, "
+"taxonomy & term; sorting & ordering; feature images; custom templates and "
+"more."
+msgstr ""
+"Un widget avancé pour afficher les articles selon beaucoup d'options : "
+"afficher les articles par type de post, taxonomie et terme ; options de "
+"tri ; images à la une ; template personnalisable."
+
+#. Author of the plugin/theme
+msgid "dpe415"
+msgstr "dpe415"
+
+#. Author URI of the plugin/theme
+msgid "http://dpedesign.com"
+msgstr "http://dpedesign.com"
