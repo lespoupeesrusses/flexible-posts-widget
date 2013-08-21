@@ -109,6 +109,15 @@ if ( !defined('ABSPATH') )
 				?>
 			</select>		
 		</p>
+		<p class="cf">
+			<label for="<?php echo $this->get_field_id('sticky'); ?>"><?php _e('Only sticky:', 'flexible-posts-widget'); ?></label> 
+			<input type="checkbox"
+				   name="<?php echo $this->get_field_name('sticky'); ?>"
+				   id="<?php echo $this->get_field_id('sticky'); ?>"
+				   value="1"
+				   <?php if ($sticky) : ?>checked="checked"<?php endif; ?>
+				   />
+		</p>
 	</div>
 	
 	<div class="section thumbnails">
